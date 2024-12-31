@@ -1,0 +1,33 @@
+.personal-information-card {
+  background-color: #c8d4e7; 
+  color: #aedff7; 
+}
+
+.personal-information-card .ant-card-head {
+  background-color: #fbf8f8; 
+  border-bottom: 1px solid #f4eeee; 
+}
+
+.personal-information-card .ant-card-body {
+  padding: 16px; 
+}
+.ant-form-item-label {
+    text-align: left;
+  }
+  
+  .ant-form-item-control-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 16px;
+  }
+  
+  .ant-btn {
+    margin-right: 8px; 
+  }
+  
+  
+  .information-saved-message {
+    color: green;
+    margin-top: 8px;
+  }
+  
